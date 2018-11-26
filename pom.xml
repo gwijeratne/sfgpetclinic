@@ -44,10 +44,9 @@
         </plugins>
     </build>
 
-    <scm><developerConnection>scm:git:https://github.com/gwijeratne/sfgpetclinic.git</developerConnection>
-        <url>https://github.com/gwijeratne/sfgpetclinic.git</url>
-        <connection>scm:git:https://github.com/gwijeratne/sfgpetclinic.git</connection>
-    </scm>
-
+    <scm>
+        <developerConnection>scm:git:https://github.com/gwijeratne/sfgpetclinic.git</developerConnection>
+        <tag>sfgpetclinic-0.0.2</tag>
+  </scm>
 
 </project>
